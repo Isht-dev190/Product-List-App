@@ -18,7 +18,7 @@ To run the project locally, follow these steps:
 git clone https://github.com/yourusername/flutter-product-app.git
 cd flutter-product-app
 
-### 📦 Install Dependencies
+###  Install Dependencies
 ````md
 ## Install Dependencies
 ```sh
