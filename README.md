@@ -1,16 +1,34 @@
-# assignment_2
+#  Flutter Dynamic Product Listing App
 
-A new Flutter project.
+A **Flutter** project that dynamically fetches and displays a list of products, categorized for easy navigation. Users can browse product categories and view individual product details dynamically.
 
-## Getting Started
+##  Features
+-  **Dynamic Product Listing** – Fetch and display products from a data source.
+-  **Category-based Filtering** – Products are organized into categories.
+-  **Detailed Product View** – Users can tap on a product to view details.
+-  **Responsive UI** – Optimized for mobile and web.
 
-This project is a starting point for a Flutter application.
+##  Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+##  Installation & Setup
+To run the project locally, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###  Clone the Repository
+```sh
+git clone https://github.com/yourusername/flutter-product-app.git
+cd flutter-product-app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📦 Install Dependencies
+````md
+## Install Dependencies
+```sh
+flutter pub get
+```
+## Run the App
+```sh
+flutter run
+```
+
+```sh
+flutter --version
+```
