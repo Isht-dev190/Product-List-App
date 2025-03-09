@@ -22,12 +22,9 @@ To run the project locally, follow these steps:
 ###  Clone the Repository
 ```sh
 git clone https://github.com/yourusername/flutter-product-app.git
+
 cd flutter-product-app
 
-###  Install Dependencies
-````md
-## Install Dependencies
-```sh
 flutter pub get
 ```
 ## Run the App
